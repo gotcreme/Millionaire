@@ -1,0 +1,288 @@
+﻿<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>Скільки зірок в сонячній системі?</Text>
+    <Answers>
+      <Text>1</Text>
+      <IsCorrect>true</IsCorrect>
+    </Answers>
+    <Answers>
+      <Text>100</Text>
+      <IsCorrect>false</IsCorrect>
+    </Answers>
+    <Answers>
+      <Text>>100 млн</Text>
+      <IsCorrect>false</IsCorrect>
+    </Answers>
+    <Answers>
+      <Text>4</Text>
+      <IsCorrect>false</IsCorrect>
+    </Answers>
+  </Question>
+  <Question>
+      <Text>Хто написав роман "Війна і мир"?</Text>
+      <Answers>
+        <Text>Е.Хемінгуей</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Е.Ремарк</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>А.Екзюпері</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Л.Толстой</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>В якій одиниці вимірюється напруга?</Text>
+      <Answers>
+        <Text>Ват</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Вольт</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Ампер</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Ом</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Яка найближча планета до Землі?</Text>
+      <Answers>
+        <Text>Марс</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Венера</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Меркурій</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Юпітер</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Хто є співзасновником компанії "Google"?</Text>
+      <Answers>
+        <Text>Сергій Брін</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Марк Цукерберг</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Майк Крігер</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Джек Дорсі</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Яке найглибше озеро у світі?</Text>
+      <Answers>
+        <Text>Каспійське море</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Танганьїка</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Байкал</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Тахо</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>В якому році розпочалась друга світова війна?</Text>
+      <Answers>
+        <Text>1939</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>1941</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>1940</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>1945</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Яка країна не входить до ЄС?</Text>
+      <Answers>
+        <Text>Болгарія</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Люксембург</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Мальта</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Швейцарія</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Найкасовіший фільм за всю історію кіно?</Text>
+      <Answers>
+        <Text>Аватар</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Титанік</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Трансформери 3</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Темний лицар</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Програма першої пілотованої висадки на Місяць?</Text>
+      <Answers>
+        <Text>Омега</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Аполлон</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Бета</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Гамма</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>В якому столітті було винайдено електричну лампочку?</Text>
+      <Answers>
+        <Text>19</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>18</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>17</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>20</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Як видобути рідину у пустелі?</Text>
+      <Answers>
+        <Text>З кактусу</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>З піску</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>З повітря</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>З тварин</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Найбільша ягода у світі?</Text>
+      <Answers>
+        <Text>Кокос</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Кавун</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Ананас</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Манго</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Скільки метрів в 10 сантиметрах?</Text>
+      <Answers>
+        <Text>0.1</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>10</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>100</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>0.01</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+  <Question>
+      <Text>Планета, поза сонячної системи?</Text>
+      <Answers>
+        <Text>Нанопланета</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Нейтронна планета</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Екзопланета</Text>
+        <IsCorrect>true</IsCorrect>
+      </Answers>
+      <Answers>
+        <Text>Пульсар</Text>
+        <IsCorrect>false</IsCorrect>
+      </Answers>
+    </Question>
+</ArrayOfQuestion>

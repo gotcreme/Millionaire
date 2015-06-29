@@ -1,0 +1,155 @@
+﻿html{
+    position: relative;
+    min-height: 100%;
+}
+
+#scoretable{
+    position:absolute;
+    right:20px;    
+    color:darkblue;
+    top:25px;
+    height:50%;
+    font: bold 16px Arial;
+    border-spacing: 0;
+}
+
+#scoretable.c1 {
+    width: 54px;
+}
+
+#scoretable.c2 {
+    text-align: right;
+    width: 100px;
+}
+
+#question{
+    position: absolute;
+    margin-top: 410px;
+    left: 0;
+    right: 0;
+}
+
+#question #qtable{
+    margin: 0 auto;
+}
+
+td{
+    text-align:center;
+}
+
+.questpanel{
+    background-image:url("/Resources/question_panel.png");
+    height:85px;
+    width:1024px;
+    background-color: white; 
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    vertical-align:middle;
+}
+
+.butA{
+    background-image:url('/Resources/answer_panelA.png');
+}
+
+.butA:hover{
+    background-image:url("/Resources/chosen_panelA.png"); 
+}
+
+.butB{
+    background-image:url("/Resources/answer_panelB.png");
+}
+
+.butB:hover{
+    background-image:url("/Resources/chosen_panelB.png");
+}
+
+.butC{
+    background-image:url("/Resources/answer_panelC.png");
+}
+
+.butC:hover{
+    background-image:url("/Resources/chosen_panelC.png");
+}
+
+.butD{
+    background-image:url("/Resources/answer_panelD.png");
+}
+
+.butD:hover{
+    background-image:url("/Resources/chosen_panelD.png");
+}
+
+.passedscore{
+    background-color:none;
+    color:grey;
+}
+
+.currentscore{
+    background-color: #FF9900;
+    color: white;
+}
+
+.logimg{
+   background-image: url("/Resources/millionaire-logo.png");
+   background-size: contain;
+}
+
+.fire{
+    color: orangered;
+}
+
+.help1{
+    background-image:url("/Resources/50.png");
+}
+
+.help1u{
+    background-image:url("/Resources/50used.png");
+}
+
+.help2{
+    background-image:url("/Resources/call.png");
+   
+}
+
+.help2u{
+    background-image:url("/Resources/callused.png");
+}
+
+.help3{
+    background-image:url("/Resources/hall.png");
+}
+
+.help3u{
+    background-image:url("/Resources/hallused.png");
+}
+
+.unfocus:focus{
+    outline:none;
+}
+
+.logimg{
+    background-image: url("/Resources/millionaire-logo.png");
+    height: 375px;
+    width: 375px;
+    position: absolute;
+    top: 25px;
+    left: 500px;
+}
+
+.help{
+    height:65px;
+    width: 100px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.btnAnswer{
+    height:53px;
+    width:512px;
+    background-color: white; 
+    font-size: 20px;
+    color:white;
+    cursor:pointer;
+    text-align:center;
+}
